@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Melero</h1>
 <h3 align="center">A passionate Android and Mobile developer from Spain</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on my **Minsait**
 
 - 🌱 I’m currently learning **Compose, Kotlin Multiplatform and Firebase**
 
