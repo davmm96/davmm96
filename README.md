@@ -1,36 +1,60 @@
-<h1 align="center">Hi 👋, I'm David Melero</h1>
-<h3 align="center">A passionate Android and Mobile developer from Spain</h3>
+<h1 align="center">Hi there!  👋</h1>
+<p align="center">I'm David Melero, a passionate Mobile Developer from Spain 🇪🇸</p>
 
-- 🔭 I’m currently working on **Minsait**
+## About Me
 
-- 🌱 I’m currently learning **Compose, Kotlin Multiplatform and Firebase**
-
-- 📫 How to reach me: **dmelero96@gmail.com**
-
-- ⚡ What I like to do: **I like so much reading, music and cinema...and coding of course**
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+I am currently working at [Minsait](https://www.minsait.com) as a Mobile Developer. My journey in software development has led me to specialize in Android development, and I have honed my skills in various technologies and frameworks since 2021.
+<div align="left">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidmeleromorant/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.dmelero96@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmelero96@gmail.com)
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+### What I'm Learning
 
-<p align="center"> 
-  <a href="https://kotlinlang.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="kotlin" width="40" height="40"/> 
-  </a>
+I am continuously striving to expand my knowledge and expertise. Currently, I am learning:
+
+- **Jetpack Compose**: Modern toolkit for building native UI.
+- **Testing**: Ensuring robust and reliable code.
+- **Kotlin Multiplatform**: Sharing code between different platforms.
+
+### My Expertise
+
+Here are some of the technologies I am proficient in:
+
+- **Kotlin**: My go-to programming language for Android development.
+- **MVVM**: Architecture pattern that enhances the separation of concerns.
+- **Room**: Database library for local data storage.
+- **Retrofit**: HTTP client for making API requests.
+- **Dagger Hilt**: Dependency injection framework to simplify code.
+
+Feel free to explore my repositories and reach out if you have any questions or just want to connect!
+
+Happy Coding! 😊
+
+## Main projects
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">F1 Stats</h3>
+<div align="center">
+<a href="https://github.com/davmm96/F1Stats" target="_blank"><img src="https://i.imgur.com/yTm8qqO.png" width="200" alt="F1 Stats"></a>
+<p>
+<a href="https://github.com/davmm96/F1Stats" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
 </p>
+<p>Android app about Formula 1, showing the calendar, ranking, circuits and race results of the past 10 seasons. The app is fully made in Kotlin, using MVVM, Navigation, Retrofit, Dagger Hilt and Room</p>
+</div>
+                                                                                      
+</td> 
+</table>                                                                                 
+</div>
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align= "center">
   <img height= "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davmm96&theme=react&layout=compact" />
 </p>
-
-------
-
-[David Melero](https://github.com/davmm96)
-
-Last Edited on: 25/06/2024
