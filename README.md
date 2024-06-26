@@ -41,9 +41,6 @@ Happy Coding! 😊
 <div align="center">
 <a href="https://github.com/davmm96/F1Stats" target="_blank"><img src="https://i.imgur.com/yTm8qqO.png" width="200" alt="F1 Stats"></a>
 <p>
-<a href="https://github.com/davmm96/F1Stats" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
 </p>
 <p>Android app about Formula 1, showing the calendar, ranking, circuits and race results of the past 10 seasons. The app is fully made in Kotlin, using MVVM, Navigation, Retrofit, Dagger Hilt and Room</p>
 </div>
