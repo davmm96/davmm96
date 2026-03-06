@@ -44,7 +44,7 @@ I thrive in agile environments and I am continuously expanding my technical tool
 <a href="https://github.com/davmm96/F1Stats" target="_blank"><img src="https://github.com/davmm96/F1Stats/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" width="200" alt="F1 Stats"></a>
 <p>
 </p>
-<p>Android app about Formula 1, showing the calendar, ranking, circuits and race results of the past 10 seasons. The app is fully made in Kotlin, using MVVM, Navigation, Retrofit, Dagger Hilt and Room</p>
+<p> Android app about Formula 1, showing the calendar, standings, circuits and race results of the actual and past seasons. Built with a multi-module Clean Architecture approach, fully in Kotlin using Jetpack Compose, MVVM, Compose Navigation, Retrofit, Koin, Room and Coil.  </p>
 </div>
                                                                                       
 </td> 
